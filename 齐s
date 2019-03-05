@@ -1,1 +1,5 @@
-大家好
+public class qy{
+public static void main(String[] args) {
+  System.out.println("Hello");
+}
+}
